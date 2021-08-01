@@ -3,8 +3,9 @@
 <img src="https://badgen.net/badge/Developer on/Pede.ai/red?icon=">
  <div>
   <a href="https://github.com/ifabrycio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifabrycio&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifabrycio&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ifabrycio&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifabrycio&layout=compact&langs_count=7&theme=solarized-dark"/>
+  <img height="170em" src="https://github.com/iFabrycio/iFabrycio/blob/main/download20210800182622.png?raw=true"/>
   </a>
 </div>
 <div><br>
