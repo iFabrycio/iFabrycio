@@ -1,7 +1,6 @@
 
-### Hi there 👋
-
 ## Plinio's Review
+<img src="https://badgen.net/badge/Developer on/Pede.ai/red?icon=">
  <div>
   <a href="https://github.com/ifabrycio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ifabrycio&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
@@ -16,13 +15,21 @@
   <img align="center" alt="nodejs"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="docker"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="mongodb"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  
 </div>
-  
-  ##
- 
-<div> 
-  
+
+### Learning
+<div>
+ <img align="center" alt="docker"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="DO"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-plain.svg">
+  <img align="center" alt="kubernetes"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="AWS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+</div>
+
+<div><br>
+ <a href="https://t.me/IFabrycio" target="_blank"><img align="center" alt="tg" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="https://discordapp.com/users/246801702865469440" target="_blank"><img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://www.instagram.com/fresh.prince.of.space/" target="_blank"><img align="center" alt="wpp" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/pfabrycio/" target="_blank"><img align="center" alt="wpp" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <!--
