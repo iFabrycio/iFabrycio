@@ -3,9 +3,8 @@
 <img src="https://badgen.net/badge/Developer on/Pede.ai/red?icon=">
  <div>
   <a href="https://github.com/ifabrycio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ifabrycio&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifabrycio&layout=compact&langs_count=7&theme=solarized-dark"/>
-  <img height="170em" src="https://github.com/iFabrycio/iFabrycio/blob/main/download20210800182622.png?raw=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ifabrycio&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifabrycio&layout=compact&langs_count=7&theme=solarized-dark"/>
   </a>
 </div>
 <div><br>
@@ -16,6 +15,7 @@
   <img align="center" alt="nodejs"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="docker"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="mongodb"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="right" height="170em" src="https://github.com/iFabrycio/iFabrycio/blob/main/download20210800182622.png?raw=true"/>
 </div>
 
 ### Learning
@@ -33,6 +33,8 @@
  <a href="https://www.linkedin.com/in/pfabrycio/" target="_blank"><img align="center" alt="wpp" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
+![Snake animation](https://github.com/ifabrycio/ifabrycio/blob/output/github-contribution-grid-snake.svg)
+ 
 <!--
 **iFabrycio/iFabrycio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
