@@ -24,6 +24,7 @@
 ### Learning
 <div>
   <img align="center" alt="AWS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+ <img align="center" alt="AWS"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/ruby/ruby-plain.svg">
 </div>
 
 <div><br>
