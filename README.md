@@ -16,7 +16,7 @@
   <img align="center" alt="nodejs"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="docker"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="mongodb"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="right" height="170em" src="https://github.com/iFabrycio/iFabrycio/blob/main/download20210800182622.png?raw=true"/>
+  <!--<img align="right" height="170em" src="https://github.com/iFabrycio/iFabrycio/blob/main/download20210800182622.png?raw=true"/>-->
   <img align="center" alt="DO"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-plain.svg">
   <img align="center" alt="kubernetes"  width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
